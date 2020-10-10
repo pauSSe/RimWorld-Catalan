@@ -127,88 +127,87 @@ es va unirsergentxenohumansUns<?xml version="1.0" encoding="UTF-8"?>
     <titleShort>aventurer</titleShort>
     <titleFemale>aventurera</titleFemale>
     <!-- EN: [PAWN_nameDef]'s thirst for adventure took [PAWN_objective] to many planets. [PAWN_pronoun] visited the brightest glitterworlds and the darkest war-torn toxic planets in [PAWN_possessive] quest to find novelty and excitement.\\n\\n[PAWN_pronoun] worked as little as possible, often skirting ethical boundaries to make a quick buck. Among all jobs, [PAWN_pronoun] hated cooking the most. -->
-    <desc>La set d'aventura del/de la [PAWN_nameDef] [PAWN_objective] portar a visitar molts planetes. Va poder contemplar els més avançats Móns Brillants, però també els planetes més devastats per la guerra, en el seu camí per trobar noves i excitants experiènces.\\n\\nVa treballar el mínim indispensable, molts cops saltant-se els límits ètics sobre fer diners ràpids. De tots els treballs, cuinar era el que menys l'entusiasmava.
-    <desc>La sed de aventura de [PAWN_nameDef] [PAWN_objective] llevó a visitar muchos planetas. Contempló los más avanzados mundos brillantes y los planetas más devastados por la guerra en su búsqueda para encontrar experiencias nuevas y excitantes.\\n\\nTrabajó lo mínimo indispensable, a menudo saltándose los límites éticos para hacer dinero rápido. De todos los trabajos, cocinar era el que más odiaba.</desc>
+    <desc>La set d'aventura del/de la [PAWN_nameDef] [PAWN_objective] portar a visitar molts planetes. Va poder contemplar els més avançats Móns Brillants, però també els planetes més devastats per la guerra, en el seu camí per trobar noves i excitants experiènces.\\n\\nVa treballar el mínim indispensable, molts cops saltant-se els límits ètics sobre fer diners ràpids. De tots els treballs, cuinar era el que menys l'entusiasmava.</desc>
   </Adventurer19>
 
   <AdventuringChild30>
     <!-- EN: adventuring child -->
-    <title>niño adventurero</title>
+    <title>nen aventurer</title>
     <!-- EN: adventurer -->
-    <titleShort>adventurero</titleShort>
-    <titleFemale>niña adventurera</titleFemale>
+    <titleShort>aventurer</titleShort>
+    <titleFemale>nena aventurera</titleFemale>
     <!-- EN: [PAWN_nameDef] was raised to become an engineer. For years, [PAWN_pronoun] planned to stow away on a cargo ship and start a new, more adventuresome life.\\n\\nOne night, after [PAWN_possessive] parents fell asleep, [PAWN_pronoun] managed to sneak on board a cargo ship just before it left port. -->
-    <desc>[PAWN_nameDef] fue criado(a) para convertirse en ingeniero. Durante años, planeó colarse en un buque de carga e iniciar una nueva vida, llena de aventuras.\\n\\nUna noche, después de que sus padres se durmieran, logró escabullirse a bordo de un carguero, justo antes de que abandonara el puerto.</desc>
+    <desc>El/La [PAWN_nameDef] va ser criat/ada per convertir-se en enginyer/era. Durant anys, va planejar colar-se en un buc de càrrega i començar una nova vida plena d'aventures.\\n\\nUna nit despres de que els seus pares s'adormissin, aconseguí infiltrar-se dins d'un dels bucs just abans de que abandonès el port.</desc>
   </AdventuringChild30>
 
   <AdventurousWeirdo55>
     <!-- EN: adventurous weirdo -->
-    <title>aventurero quijotesco</title>
+    <title>aventurer quixotesc</title>
     <!-- EN: weirdo -->
-    <titleShort>aventurero</titleShort>
-    <titleFemale>aventurera quijotesca</titleFemale>
+    <titleShort>aventurer</titleShort>
+    <titleFemale>aventurera quixotesca</titleFemale>
     <!-- EN: A creative but strange individual, [PAWN_nameDef] dedicated [PAWN_possessive] life to [PAWN_possessive] twin passions of medieval world history and high technology.\\n\\n[PAWN_pronoun] was fascinated by the idea of becoming a 'skyknight' with glittering armor and a giant sword. -->
-    <desc>Una persona creativa pero particular, [PAWN_nameDef] dedicó su vida a sus dos pasiones: la historia del mundo medieval y la alta tecnología.\\n\\n[PAWN_pronoun] soñaba con la idea de convertirse en un "caballero de brillante armadura", portando una espada gigante.</desc>
+    <desc>Una persona creativa però particular, [PAWN_nameDef] dedicà la seva vida a les seves dues passions: història medieval, i alta tecnología.\\n\\n[PAWN_pronoun] somiava amb la idea de convertir-se en un "caballer de brillant armadura", portant una espasa gegant.</desc>
   </AdventurousWeirdo55>
 
   <AdventurousYouth70>
     <!-- EN: adventurous youth -->
-    <title>joven aventurero</title>
+    <title>jove aventurer</title>
     <!-- EN: adventurer -->
-    <titleShort>aventurero</titleShort>
-    <titleFemale>joven aventurera</titleFemale>
+    <titleShort>aventurer</titleShort>
+    <titleFemale>jove aventurera</titleFemale>
     <!-- EN: [PAWN_nameDef] explored all around [PAWN_possessive] family's large estate, uncovering little natural wonders hidden in nearby catacombs, rivers, and caves.\\n\\nDuring [PAWN_possessive] teenage years, [PAWN_nameDef] made numerous enemies -->
-    <desc>[PAWN_nameDef] exploró completamente las extensas tierras de su familia, descubriendo pequeñas maravillas naturales escondidas en catacumbas, ríos y cuevas cercanas.\\n\\nDurante su adolescencia, [PAWN_nameDef] hizo numerosos enemigos.</desc>
+    <desc>El/La [PAWN_nameDef] va explorar per complet les extenses terres de la família, descobrint petites meravelles naturals amagades en catacombes, rius, i coves.\\n\\nDurant l'adolescència es va buscar numerosos enemics.</desc>
   </AdventurousYouth70>
 
   <AerospaceEngineer44>
     <!-- EN: aerospace engineer -->
-    <title>ingeniero aeroespacial</title>
+    <title>enginyer aeroespacial</title>
     <!-- EN: engineer -->
-    <titleShort>ingeniero</titleShort>
-    <titleFemale>ingeniera aeroespacial</titleFemale>
+    <titleShort>enginyer</titleShort>
+    <titleFemale>enginyera aeroespacial</titleFemale>
     <!-- EN: [PAWN_nameDef] was an engineer responsible for the production of aircraft and spaceships. [PAWN_pronoun] focused on improving production lines, and was known for [PAWN_possessive] mastery of technical and research issues. -->
-    <desc>[PAWN_nameDef] fue un/una ingeniero(a) que trabajaba en la producción de aviones y naves espaciales. Se centró en mejorar las líneas de producción, y era conocido(a) por su dominio en cuestiones técnicas y de investigación.</desc>
+    <desc>El/La [PAWN_nameDef] fóra un/a enginyer/a que treballà en la producció d'avions i naus espacials. Es centrà en millorar les línies de producció, i era conegut/uda pel seu domini en qüestions tècniques i d'investigació.</desc>
   </AerospaceEngineer44>
 
   <AIProgrammer22>
     <!-- EN: aI programmer -->
-    <title>programador de IA</title>
+    <title>programador d'IA</title>
     <!-- EN: programmer -->
     <titleShort>programador</titleShort>
-    <titleFemale>programadora de IA</titleFemale>
+    <titleFemale>programadora d'IA</titleFemale>
     <!-- EN: [PAWN_nameDef] enlisted in the military's robotics division, developing smarter combat AI.\\n\\nThe whole time [PAWN_pronoun] was there, [PAWN_pronoun] never spoke with another human. [PAWN_pronoun] spent all [PAWN_possessive] time conversing with the AI [PAWN_pronoun] was developing. -->
-    <desc>[PAWN_nameDef] se alistó en la división de robótica de la milicia, desarrollando una IA de combate más inteligente.\\n\\nDurante todo el tiempo que estuvo allí, nunca habló con otro humano. Pasaba todo su tiempo conversando con la IA que estaba desarrollando.</desc>
+    <desc>El/La [PAWN_nameDef] es va allistar a la divisió robotica de la milícia, desenvolupant una IA de combat més inteŀligent.\\n\\nTot el temps que va estar allà, mai parlà amb un altre humá. Passava l'estona parlant amb la IA quee desenvolupava.</desc>
   </AIProgrammer22>
 
   <AIResearcher94>
     <!-- EN: aI researcher -->
-    <title>investigador de IA</title>
+    <title>investigador d'IA</title>
     <!-- EN: researcher -->
     <titleShort>investigador</titleShort>
-    <titleFemale>investigadora de IA</titleFemale>
+    <titleFemale>investigadora d'IA</titleFemale>
     <!-- EN: [PAWN_nameDef] was a renowned researcher in artificial intelligence, robotics, and interactive holography. [PAWN_possessive] friendships with the artificial minds [PAWN_pronoun] created gave [PAWN_objective] the confidence to interact with real people, and [PAWN_pronoun] soon excelled at personal communication. -->
-    <desc>[PAWN_nameDef] era un renombrado investigador en los campos de la inteligencia artificial, la robótica, y la holografía interactiva. Su amistad con las mentes artificiales que creó le dieron la confianza necesaria para interactuar con personas reales, y pronto empezó a destacar por sus habilidades sociales.</desc>
+    <desc>El/La [PAWN_nameDef] era un renombrat investigador en els camps de la inteŀligència artificial, la robòtica, i l'holografia interactiva. La seva amistat amb les ments artificials que creà, li van donar la confiança necessària per interactuar amb persones reals. Aviat començà a destacar per les seves habilitats socials.</desc>
   </AIResearcher94>
 
   <AlcoholicTrucker93>
     <!-- EN: alcoholic trucker -->
-    <title>camionero alcohólico</title>
+    <title>camioner alcohòlic</title>
     <!-- EN: alcoholic -->
-    <titleShort>alcohólico</titleShort>
-    <titleFemale>camionera alcohólica</titleFemale>
+    <titleShort>alcohòlic</titleShort>
+    <titleFemale>camionera alcohòlica</titleFemale>
     <!-- EN: [PAWN_nameDef] was a space trucker working for Arcknight Industries when [PAWN_pronoun] killed [PAWN_possessive] wife and daughter in a crash.\\n\\n[PAWN_possessive] body was repaired with an experimental nano-genetic therapy. Now [PAWN_possessive] muscles continually regenerate and harden, and every movement tears the tissue anew. [PAWN_pronoun] bears the pain in silence. -->
-    <desc>[PAWN_nameDef] era un/una transportista espacial que trabajaba para 'Industrias Arcknight', quan perdió a su esposa/marido y a su hija en un accidente en el que sólo [PAWN_pronoun] sobrevivió.\\n\\nSu cuerpo fue reparado con una terapia nano-genética experimental. Ahora sus músculos se regeneran continuamente y se endurecen, y cada movimiento desgarra el tejido nuevamente. Soporta el dolor en silencio.</desc>
+    <desc>[PAWN_nameDef] era un/a transportista espacial que treballava per a "Industries Arcknight", quan va perdre a la seva família en un accident en le que nomes [PAWN_pronoun] va sobreviure.\\n\\nEl seu cos va ser reparat amb tecnologia nano-genètica experimental. Ara els seus músculs es regeneren continuament i s'endureixen, provocant que, en cada moviment aquests es desgarrin novament. Suporta el dolor en silenci.</desc>
   </AlcoholicTrucker93>
 
   <AmateurAstronomer77>
     <!-- EN: amateur astronomer -->
-    <title>astrónomo aficionado</title>
+    <title>astrònom aficionat</title>
     <!-- EN: astronomer -->
-    <titleShort>astrónomo</titleShort>
-    <titleFemale>astrónoma aficionada</titleFemale>
+    <titleShort>astrònom</titleShort>
+    <titleFemale>astrònoma aficionada</titleFemale>
     <!-- EN: [PAWN_nameDef] was fascinated with astronomy. [PAWN_pronoun] would spend hours gazing at planets and nebulae through [PAWN_possessive] telescope.\\n\\n[PAWN_pronoun] is credited with discovering a small comet that would, years later, strike a nearby moon and disrupt the mining operations there. -->
-    <desc>A [PAWN_nameDef] le fascinaba la astronomía. Pasaba horas contemplando planetas y nebulosas a través de su telescopio.\\n\\nSe le atribuye el descubrimiento de un pequeño cometa que, años más tarde, golpearía una luna cercana e interrumpiría las operaciones mineras llevadas a cabo allí.</desc>
+    <desc>A el/la [PAWN_nameDef] li fascinava l'astronomia. Passava hores contemplant els planetes i nebuloses a través del seu telescopi.\\n\\nSe li atribueix el descobrimetn d'un petit cometa que, anys més tard colpejaria una lluna propera i interrompria les operacions mineres dutes a terme allà.</desc>
   </AmateurAstronomer77>
 
   <AmateurBotanist79>
