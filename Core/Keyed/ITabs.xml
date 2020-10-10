@@ -17,7 +17,7 @@
   <!-- EN: Gear -->
   <TabGear>Equipació</TabGear>
   <!-- EN: Needs -->
-  <TabNeeds>Estat</TabNeeds>
+  <TabNeeds>Necessiats</TabNeeds>
   <!-- EN: Storage -->
   <TabStorage>Magatzem</TabStorage>
   <!-- EN: Shells -->
@@ -160,7 +160,7 @@
   <SelfTend>Auto-cures</SelfTend>
   <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
   <SelfTendTip>{0} amb auto-cures habilitat intentarà curar-se a si mateix amb un {1} tde l’eficiència normal.</SelfTendTip>
-  
+
   <!-- Medical - Body and activities condition -->
   <!-- EN: None -->
   <None>Cap</None>
@@ -201,7 +201,7 @@
 
   <!-- EN: Prerequisite needed: {0} -->
   <TrainingNeedsPrerequisite>Necessita el requisit: {0}</TrainingNeedsPrerequisite>
-  
+
   <!-- Social tab -->
   <!-- EN: (no relationships) -->
   <NoRelationships>(cap relació)</NoRelationships>
@@ -221,7 +221,7 @@
   <IAmDead>Estic mort</IAmDead>
   <!-- EN: I'm a psychopath -->
   <IAmPsychopath>Sóc un psicòpata</IAmPsychopath>
-  
+
   <!-- Gear tab -->
   <!-- EN: Overall armor -->
   <OverallArmor>Armadura total</OverallArmor>
@@ -235,7 +235,7 @@
   <ArmorSharp>Talls</ArmorSharp>
   <!-- EN: Heat -->
   <ArmorHeat>Calor</ArmorHeat>
-  
+
   <!-- Log tab -->
   <!-- EN: Show all -->
   <ShowAll>Tot</ShowAll>
