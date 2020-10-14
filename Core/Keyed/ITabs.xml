@@ -3,33 +3,33 @@
 
   <!-- ITab titles -->
   <!-- EN: Bills -->
-  <TabBills>Programa</TabBills>
+  <TabBills>Projecte</TabBills>
   <!-- EN: Growing -->
-  <TabGrowing>Plantació</TabGrowing>
+  <TabGrowing>Cultiu</TabGrowing>
   <!-- EN: Bio -->
-  <TabCharacter>Qualitats</TabCharacter>
+  <TabCharacter>Personatge</TabCharacter>
   <!-- EN: Training -->
-  <TabTraining>Educació</TabTraining>
+  <TabTraining>Entrenament</TabTraining>
   <!-- EN: Prisoner -->
   <TabPrisoner>Presoner</TabPrisoner>
   <!-- EN: Guest -->
   <TabGuest>Convidat</TabGuest>
   <!-- EN: Gear -->
-  <TabGear>Equipació</TabGear>
+  <TabGear>Equip</TabGear>
   <!-- EN: Needs -->
   <TabNeeds>Necessiats</TabNeeds>
   <!-- EN: Storage -->
   <TabStorage>Magatzem</TabStorage>
   <!-- EN: Shells -->
-  <TabShells>Projectils</TabShells>
+  <TabShells>Obúsos</TabShells>
   <!-- EN: Health -->
   <TabHealth>Salut</TabHealth>
   <!-- EN: Race -->
-  <TabRace>Raça</TabRace>
+  <TabRace>Espècie</TabRace>
   <!-- EN: Basics -->
   <TabBasics>Bàsics</TabBasics>
   <!-- EN: Stats -->
-  <TabStats>Estad.</TabStats>
+  <TabStats>Estats</TabStats>
   <!-- EN: Records -->
   <TabRecords>Registres</TabRecords>
   <!-- EN: Art -->
@@ -41,27 +41,27 @@
   <!-- EN: Caravan -->
   <TabFormingCaravan>Caravana</TabFormingCaravan>
   <!-- EN: Contents -->
-  <TabTransporterContents>Contingut</TabTransporterContents>
+  <TabTransporterContents>Continguts</TabTransporterContents>
 
   <!-- Bills tab  -->
   <!-- EN: Add bill -->
-  <AddBill>Afegeix programa</AddBill>
+  <AddBill>Afegir projecte</AddBill>
   <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
-  <RecipeRequiresSkills>La recepta {0} necessita els coneixements que s'indiquen. No teniu cap colon amb aquests coneixements, així que ningú se'n farà càrreg.</RecipeRequiresSkills>
+  <RecipeRequiresSkills>La recepta {0} requereix el rang d'habilitat següent. No teniu cap coló amb aquests eangs, així que ningú se'n farà càrrec.</RecipeRequiresSkills>
   <!-- EN: Min skill -->
-  <MinimumSkill>Coneixement min</MinimumSkill>
+  <MinimumSkill>Habilitat mínima</MinimumSkill>
   <!-- EN: SUSPENDED -->
   <SuspendedCaps>SUSPÈS</SuspendedCaps>
-  <!-- EN: Worker: {0} -->
-  <BoundWorkerIs>Treballador: {0}</BoundWorkerIs>
+  <!-- EN: Worker: {1_labelShort -->
+  <BoundWorkerIs>Treballador: {1_labelShort}</BoundWorkerIs>
   <!-- EN: Plant -->
-  <PlantVerb>Plantar</PlantVerb>
+  <PlantVerb>Sembrar</PlantVerb>
   <!-- EN: Copied bill cannot be pasted here. -->
-  <ClipboardBillNotAvailableHere>El contingut del porta-retalls no es pot enganxar aquí.</ClipboardBillNotAvailableHere>
+  <ClipboardBillNotAvailableHere>El projecte copiat no es pot enganxar aquí.</ClipboardBillNotAvailableHere>
   <!-- EN: Move up -->
-  <ReorderBillUpTip>Mou amunt</ReorderBillUpTip>
+  <ReorderBillUpTip>Mou Amunt</ReorderBillUpTip>
   <!-- EN: Move down -->
-  <ReorderBillDownTip>Mou avall</ReorderBillDownTip>
+  <ReorderBillDownTip>Mou Avall</ReorderBillDownTip>
   <!-- EN: Delete -->
   <DeleteBillTip>Esborra</DeleteBillTip>
   <!-- EN: Copy to the clipboard -->
@@ -71,23 +71,45 @@
   <!-- EN: Paste -->
   <PasteBillTip>Enganxa</PasteBillTip>
   <!-- EN: can't add more -->
-  <PasteBillTip_LimitReached>no se’n poden afegir més</PasteBillTip_LimitReached>
+  <PasteBillTip_LimitReached>no pot afegir-ne més</PasteBillTip_LimitReached>
 
   <!-- Guest/prisoner tab -->
   <!-- EN: Resistance remaining -->
   <RecruitmentResistance>Resistència restant</RecruitmentResistance>
   <!-- EN: Recruitment difficulty -->
   <RecruitmentDifficulty>Dificultat de reclutament</RecruitmentDifficulty>
+    <!-- EN: Recruitment chance -->
+  <RecruitmentChance>Probabilitat de reclutament</RecruitmentChance>
+  <!-- EN: Recruit difficulty factor: {0}\nMood factor: {1}\nCombined base chance: {2} -->
+  <RecruitmentChanceExplanation>Factor de dificultat de reclutament: {0}\nFactor d'estat d'anim: {1}\Probabilitat base combinada: {2}</RecruitmentChanceExplanation>
+  <!-- EN: \n- - - - - - - - - -\nLast recruitment attempt\nRecruiter: {3}\nNegotiation ability factor: {4}\nOpinion factor: {5} ({6})\nFinal chance for {3}: {7} -->
+  <RecruitmentChanceWithLastRecruiterExplanationPart>\n----------------\Últim intent de reclutament\Reclutador: {3}\nFactor d'habilitat de negociació: {4}\nFactor d'opinió: {5} ({6})\nProbabilitat final per {3}: {7}</RecruitmentChanceWithLastRecruiterExplanationPart>
+  <!-- EN: \nResistance reduction: {0} -->
+  <RecruitmentLastRecruiterResistanceReduceExplanationPart>\nReducció de resistencia: {0}</RecruitmentLastRecruiterResistanceReduceExplanationPart>
+  <!-- EN: Relations gain on release -->
+  <PrisonerReleasePotentialRelationGains>Millora de relacions en alliberar</PrisonerReleasePotentialRelationGains>
+  <!-- EN: The faction relations improvement you will get from the prisoner's faction if you release them. This is affected by the prisoner's health and mental condition. -->
+  <PrisonerReleaseRelationGainsDesc>La millora en las relacions amb la facció del presoner si l'alliberes. Aixó es afectat por l'estat de salut física y mental del subjecte.</PrisonerReleaseRelationGainsDesc>
+  <!-- EN: Prison break interval -->
+  <PrisonBreakMTBDays>Interval entre fugues</PrisonBreakMTBDays>
+  <!-- EN: The mean number of days of time awake between prison break attempts. Affected by mood, mobility and time since the last prison break.\n\nThis number ignores time spent sleeping, so the actual average prison break interval will usually be longer. -->
+  <PrisonBreakMTBDaysDescription>La media de días entre intentos de fuga. Es afectado por el estado de animo, la movilidad del prisionero y cuanto haya pasado desde el último intento de fuga.\n\nEsto ignora el tiempo que se pasa durmiendo, así que normalmente este número suele ser mayor.</PrisonBreakMTBDaysDescription>
+  <!-- EN: Never -->
+  <Never>Mai</Never>
+  <!-- EN: Not while asleep -->
+  <NotWhileAsleep>No mentre dorm</NotWhileAsleep>
+  <!-- EN: Slave price -->
+  <SlavePrice>Preu d'esclau</SlavePrice>
   <!-- EN: Gets food -->
-  <GetsFood>Porta menjar</GetsFood>
+  <GetsFood>Rep Menjar</GetsFood>
   <!-- EN: Doctors care -->
-  <DoctorsCare>Cures mèdiques</DoctorsCare>
+  <DoctorsCare>Tractametn mèdic</DoctorsCare>
   <!-- EN: Gets medicine -->
-  <GetsMedicine>Emprar medicines</GetsMedicine>
+  <GetsMedicine>Rep medicina</GetsMedicine>
   <!-- EN: Try to recruit -->
-  <ShouldTryToRecruit>Provar de reclutar</ShouldTryToRecruit>
+  <ShouldTryToRecruit>Intentar reclutar</ShouldTryToRecruit>
   <!-- EN: Considered guilty (expires in {0}) -->
-  <ConsideredGuilty>Considerat culpable (expira en {0})</ConsideredGuilty>
+  <ConsideredGuilty>Considerat culpable (acaba en {0})</ConsideredGuilty>
 
   <!-- Medical - general -->
   <!-- EN: Move speed -->
