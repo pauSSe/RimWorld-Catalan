@@ -2,36 +2,42 @@
 <LanguageData>
 
   <!-- EN: none -->
-  <WorkTagNone>Cap</WorkTagNone>
+  <WorkTagNone>cap</WorkTagNone>
   <!-- EN: intellectual -->
-  <WorkTagIntellectual>Intel·lectual</WorkTagIntellectual>
+  <WorkTagIntellectual>inteŀlectual</WorkTagIntellectual>
   <!-- EN: dumb labor -->
-  <WorkTagManualDumb>Feines bastes</WorkTagManualDumb>
+  <WorkTagManualDumb>treball manual</WorkTagManualDumb>
   <!-- EN: skilled labor -->
-  <WorkTagManualSkilled>Feines complexes</WorkTagManualSkilled>
+  <WorkTagManualSkilled>treball especialitzat</WorkTagManualSkilled>
   <!-- EN: violent -->
-  <WorkTagViolent>Violència</WorkTagViolent>
+  <WorkTagViolent>violència</WorkTagViolent>
   <!-- EN: caring -->
-  <WorkTagCaring>Cures</WorkTagCaring>
+  <WorkTagCaring>cures</WorkTagCaring>
   <!-- EN: social -->
-  <WorkTagSocial>Social</WorkTagSocial>
+  <WorkTagSocial>social</WorkTagSocial>
   <!-- EN: animals -->
-  <WorkTagAnimals>Animals</WorkTagAnimals>
+  <WorkTagAnimals>animals</WorkTagAnimals>
   <!-- EN: artistic -->
-  <WorkTagArtistic>Artístic</WorkTagArtistic>
+  <WorkTagArtistic>art</WorkTagArtistic>
   <!-- EN: crafting -->
-  <WorkTagCrafting>Fabricació</WorkTagCrafting>
+  <WorkTagCrafting>manufactura</WorkTagCrafting>
   <!-- EN: cooking -->
-  <WorkTagCooking>Cuina</WorkTagCooking>
+  <WorkTagCooking>cuina</WorkTagCooking>
   <!-- EN: firefighting -->
-  <WorkTagFirefighting>Bomber</WorkTagFirefighting>
+  <WorkTagFirefighting>bomber</WorkTagFirefighting>
   <!-- EN: cleaning -->
-  <WorkTagCleaning>Neteja</WorkTagCleaning>
+  <WorkTagCleaning>neteja</WorkTagCleaning>
   <!-- EN: hauling -->
-  <WorkTagHauling>Transport</WorkTagHauling>
+  <WorkTagHauling>transport</WorkTagHauling>
   <!-- EN: plant work -->
-  <WorkTagPlantWork>Pagesia</WorkTagPlantWork>
+  <WorkTagPlantWork>agricultura</WorkTagPlantWork>
   <!-- EN: mining -->
-  <WorkTagMining>Mineria</WorkTagMining>
+  <WorkTagMining>mineria</WorkTagMining>
+  <!-- EN: hunting -->
+  <WorkTagHunting>caça</WorkTagHunting>
+  <!-- EN: commoner work -->
+  <WorkTagCommoner>treball de sirvent</WorkTagCommoner>
+  <!-- EN: all work -->
+  <WorkTagAllWork>totes les feines</WorkTagAllWork>
 
 </LanguageData>

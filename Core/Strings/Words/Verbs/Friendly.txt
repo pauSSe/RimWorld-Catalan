@@ -1,5 +1,5 @@
-﻿rient
-somrient
+riure
+somriure
 rient
 somrient
 alegre
@@ -7,3 +7,4 @@ descansant
 divertint-se
 feliç
 encantat
+distret

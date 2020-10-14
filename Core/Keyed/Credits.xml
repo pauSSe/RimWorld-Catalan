@@ -2,23 +2,23 @@
 <LanguageData>
 
   <!-- EN: A story generator by Tynan Sylvester -->
-  <MainPageCredit>Un simulador de colònies fet per Tynan Sylvester</MainPageCredit>
+  <MainPageCredit>Un generador d'històries fet per Tynan Sylvester</MainPageCredit>
 
   <!-- EN: Developers -->
   <Credits_Developers>Desenvolupadors</Credits_Developers>
   <!-- EN: Direction, design, code, art -->
-  <Credit_DirectionVarious>Direcció, disseny, codificació, art</Credit_DirectionVarious>
+  <Credit_DirectionVarious>Direcció, disseny, codi, art</Credit_DirectionVarious>
   <!-- EN: Audio -->
-  <Credit_MusicAndSound>Música i so</Credit_MusicAndSound>
+  <Credit_MusicAndSound>Audio</Credit_MusicAndSound>
   <!-- EN: Code -->
   <Credit_Code>Codi</Credit_Code>
   <!-- EN: Art -->
-  <Credit_GameArt>Art del joc</Credit_GameArt>
+  <Credit_GameArt>Art</Credit_GameArt>
   <!-- EN: Menu art -->
   <Credit_MenuArt>Art del menú</Credit_MenuArt>
   <!-- EN: Additional code -->
   <Credit_AdditionalCode>Codi addicional</Credit_AdditionalCode>
-  
+
   <!-- EN: Additional development -->
   <Credits_AdditionalDevelopment>Desenvolupament addicional</Credits_AdditionalDevelopment>
 
@@ -28,7 +28,7 @@
   <!-- EN: Community volunteers -->
   <Credits_TitleCommunity>Voluntaris de la comunitat</Credits_TitleCommunity>
   <!-- EN: Tester -->
-  <Credit_Tester>Provador</Credit_Tester>
+  <Credit_Tester>Tester</Credit_Tester>
   <!-- EN: Mod donor -->
   <Credit_ModDonation>Donant de Mods</Credit_ModDonation>
   <!-- EN: Writing donor -->
@@ -36,7 +36,7 @@
   <!-- EN: Moderator -->
   <Credit_Moderator>Moderador</Credit_Moderator>
   <!-- EN: Wiki master -->
-  <Credit_WikiMaster>Gestor del Wiki</Credit_WikiMaster>
+  <Credit_WikiMaster>Gestor de la Wiki</Credit_WikiMaster>
 
   <!-- EN: {0} language -->
   <Credits_TitleLanguage>Idioma {0}</Credits_TitleLanguage>
@@ -50,6 +50,6 @@
   <Credit_NoiseGeneration>Generador de soroll</Credit_NoiseGeneration>
 
   <!-- EN: Thanks for playing! -->
-  <ThanksForPlaying>Gràcies per jugar-hi!</ThanksForPlaying>
+  <ThanksForPlaying>Gràcies per jugar!</ThanksForPlaying>
 
 </LanguageData>
