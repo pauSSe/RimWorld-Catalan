@@ -315,7 +315,7 @@
     <!-- EN: survivor -->
     <titleShort>supervivent</titleShort>
     <!-- EN: [PAWN_objective] [PAWN_nameDef] was born during a time of unrest on [PAWN_possessive] homeworld, as climate change threatened mass starvation and flooding. As [PAWN_pronoun] grew up the situation worsened - billions died and peaceful states descended into anarchy. [PAWN_objective] [PAWN_nameDef] and [PAWN_possessive] parents did whateveure they had to to survive. -->
-    <desc>[PAWN_objective] [PAWN_nameDef] va nèixer durant una época catastrófica per al seu món natal, quan el canvi climàtic amenaçava amb fams i inundacions massives. Ambforme va crèixer, la situación va empitjorar, milions van morir i els goveurens van caure en l'anarquia. [PAWN_objective] [PAWN_nameDef] i els seus pares van fer el que van poder per sobreviure.</desc>
+    <desc>[PAWN_objective] [PAWN_nameDef] va nèixer durant una época catastrófica per al seu món natal, quan el canvi climàtic amenaçava amb fams i inundacions massives. Ambforme va crèixer, la situación va empitjorar, milions van morir i els governs van caure en l'anarquia. [PAWN_objective] [PAWN_nameDef] i els seus pares van fer el que van poder per sobreviure.</desc>
   </ApocalypseSurvivor23>
 
   <ApprenticeOracle83>
@@ -339,13 +339,13 @@
 
   <Archaeologist85>
     <!-- EN: archaeologist -->
-    <title>arqueòlef</title>
+    <title>arqueòleg</title>
     <titleFemale>arqueòloga</titleFemale>
     <!-- EN: explorer -->
     <titleShort>explorador</titleShort>
     <titleShortFemale>exploradora</titleShortFemale>
     <!-- EN: [PAWN_pronoun] was trapped in an uninspired life. One day, [PAWN_pronoun] jumped on a ship to learn archaeology and see the univeurese.\n\n[PAWN_pronoun] learned how to survive. [PAWN_pronoun] also learned about people - although [PAWN_pronoun] understood the dead better than the living. -->
-    <desc>[PAWN_pronoun] estava {PAWN_gender ? atrapado : atrapada} en una vida sense inspiració. Un dia, va pujar a una nau per aprendre arqueología i veure l'univers.\n\nVa aprendre a sobreviure; també sobre les persones, Tot i que entenia millor als morts que als vius.</desc>
+    <desc>Estava {PAWN_gender ? atrapado : atrapada} en una vida sense inspiració. Un dia, va pujar a una nau per aprendre arqueología i veure l'univers.\n\nVa aprendre a sobreviure; també sobre les persones. Tot i que entenia millor als morts que als vius.</desc>
   </Archaeologist85>
 
   <Archer25>
@@ -376,7 +376,7 @@
     <!-- EN: aI spy -->
     <titleShort>IA espía</titleShort>
     <!-- EN: [PAWN_objective] [PAWN_nameDef] was a cybernetic researcher. Studying a transcended world, [PAWN_pronoun] became too involved with [PAWN_possessive] subjects. Oveure time, the archotech recruited [PAWN_objective] into its service, and used [PAWN_objective] as a spy.\n\nWhen [PAWN_pronoun] later rebelled against [PAWN_possessive] inhuman master, it sent mechanoids across space to hunt [PAWN_objective] down. -->
-    <desc>[PAWN_objective] [PAWN_nameDef] era {PAWN_gender ? un ciberinvestigador : una ciberinvestigadora}. Estudiant un món trascendental, [PAWN_pronoun] es va involucrar massa amb la seva recerca. Amb el temps, el núcli de la màquina arqueotècnica que estava estudiant [PAWN_objective] va reclutar, i [PAWN_objective] va utilitzar com {PAWN_gender ? un espía : una espía}.\n\nCuando es va rebeŀlar més tard contra els seus amos no humans, la IA va enviar mecanoides a través de l'espai per caçar-{PAWN_gender ? lo : la}.</desc>
+    <desc>[PAWN_objective] [PAWN_nameDef] era {PAWN_gender ? un ciberinvestigador : una ciberinvestigadora}. Estudiant un món trascendental, [PAWN_pronoun] es va involucrar massa amb la seva recerca. Amb el temps, el núcli de la màquina arqueotècnica que estava estudiant [PAWN_objective] va reclutar, i [PAWN_objective] va utilitzar com {PAWN_gender ? un espía : una espía}.\n\nQuan es va rebeŀlar més tard contra els seus amos no humans, la IA va enviar mecanoides a través de l'espai per caçar-{PAWN_gender ? lo : la}.</desc>
   </ArchotechSpy75>
 
   <ArmyCook0>
@@ -434,32 +434,33 @@
 
   <ArtifactHunter48>
     <!-- EN: artifact hunter -->
-    <title>caza-artefactos</title>
+    <title>caça artefactes</title>
     <!-- EN: artifacter -->
-    <titleShort>artificiero</titleShort>
-    <titleShortFemale>artificiera</titleShortFemale>
+    <titleShort>artificer</titleShort>
+    <titleShortFemale>artificera</titleShortFemale>
     <!-- EN: [PAWN_objective] [PAWN_nameDef] became depressed and elst interest in life. [PAWN_pronoun] travelled from planet to planet, searching for psychic artifacts amid mechanoid ruins in the hope that they would cure the pain in [PAWN_possessive] soul.\n\nA steady trigger finger and careful planning kept [PAWN_objective] [PAWN_nameDef] alive. -->
     <desc>[PAWN_objective] [PAWN_nameDef] va entrar en depressió i va perdre l'interès en la vida. Va viatjar de planeta en planeta, buscant artefactes psíquics enter les runes mecanoides amb l'esperança de que curaríen el dolor en la seva ànima.\n\nUn exceŀls dit de tirador i una prudenta planificació [PAWN_objective] van mantenir {PAWN_gender ? viu : viva}.</desc>
   </ArtifactHunter48>
 
   <ArtificerRampant95>
     <!-- EN: artificer rampant -->
-    <title>artífice desenfrenado</title>
+    <title>artífice desenfrenat</title>
+    <titleFemale>artífice desenfrenada</titleFemale>
     <!-- EN: artificer -->
     <titleShort>artífice</titleShort>
     <!-- EN: va serlled by the thrill of discoveurey and [PAWN_possessive] own megalomania, [PAWN_objective] [PAWN_nameDef] set out to invent new devices and improve existing ones, breaking laws and customs as necessary.\n\n[PAWN_pronoun] formed a crew to gather materials for [PAWN_possessive] work - and to deal with outsiders who might interfere. -->
-    <desc>{PAWN_gender ? Impulsado : Impulsada} per la emoción del descobriment i la seva propia megalomanía, [PAWN_objective] [PAWN_nameDef] es va propuso inventar nuevos dispositivos i millorar els existentes, rompiendo les leyes i costumbres según va serra necesario.\n\n[PAWN_pronoun] va formar un equipo per recopilar materials per la seva treballs - i per tratar amb els forasteros que podrían interferir.</desc>
+    <desc>{PAWN_gender ? Impulsat : Impulsada} per la emoció del descobriment i la seva propia megalomanía, [PAWN_objective] [PAWN_nameDef] es va proposar inventar nous dispositius i millorar els existents, trencant lleis i costums quan necessari.\n\nVa formar un equipo per recolliar materials per els seus treballs - i per tractar amb els forasters que podríen interferir.</desc>
   </ArtificerRampant95>
 
   <Artilleryman28>
     <!-- EN: artilleryman -->
-    <title>artillero</title>
+    <title>artiller</title>
     <!-- EN: artillerywoman -->
     <titleFemale>artillera</titleFemale>
     <!-- EN: artilleer -->
-    <titleShort>artillería</titleShort>
+    <titleShort>artiller</titleShort>
     <!-- EN: [PAWN_objective] [PAWN_nameDef] loaded shells and aimed artillery to pound [PAWN_possessive] army's enemies from afar. -->
-    <desc>[PAWN_objective] [PAWN_nameDef] cargó proyectiles i apuntó la seva artillería per golpear a [PAWN_possessive] exèrcit de enemics desde molt lejos.</desc>
+    <desc>[PAWN_objective] [PAWN_nameDef] carregava i apuntava la seva artillería per a colpejar als enemics del seu exèrcit desde la distància.</desc>
   </Artilleryman28>
 
   <ArtisanFarmer23>
@@ -470,7 +471,7 @@
     <titleShort>agricultor</titleShort>
     <titleShortFemale>agricultora</titleShortFemale>
     <!-- EN: [PAWN_objective] [PAWN_nameDef] grew up on a [PAWN_possessive] family's glitterworld farm. They were one of the lest farms on the planet that preferred traditional farming methods to glitterworld technology. -->
-    <desc>[PAWN_objective] [PAWN_nameDef] va crèixer en la granja de la seva família en mónbrillant. va serron una de les últimas fincas del planeta que prefirieron els mètodes agrícoles tradicionals a la tecnologia mónbrillant.</desc>
+    <desc>[PAWN_objective] [PAWN_nameDef] va crèixer a la granja de la seva família, a un mónbrillant. Van ser una de les últimes finques del planeta que van preferir els mètodes agrícoles tradicionals a la tecnologia mónbrillant.</desc>
   </ArtisanFarmer23>
 
   <ArtisticWeirdo56>
@@ -481,48 +482,48 @@
     <titleShort>raret</titleShort>
     <titleShortFemale>rareta</titleShortFemale>
     <!-- EN: [PAWN_objective] [PAWN_nameDef] grew up in a house near a bustling midworld metropolis.\n\n[PAWN_pronoun] was talented at art and creative work, but often acted strangely, and thus had few friends. -->
-    <desc>[PAWN_objective] [PAWN_nameDef] va crèixer en una casa cerca d'una bulliciosa metrópoli d'un mónMedio.\n\n[PAWN_pronoun] havia talent per el arte i el treballs creativo, però sovint actuava de manera estranya, i per el tanto havia pocs amigos.</desc>
+    <desc>[PAWN_objective] [PAWN_nameDef] va crèixer en una casa prop d'una enfeinada metròpolis d'un mónmitjà.\n\nTenía talent per a l'art i els treballs creatius, però sovint actuava de manera estranya, i per tant tenía pocs amics.</desc>
   </ArtisticWeirdo56>
 
   <ArtSlave57>
     <!-- EN: art slave -->
-    <title>esclavo artista</title>
+    <title>esclau artista</title>
     <titleFemale>esclava artista</titleFemale>
     <!-- EN: artist -->
     <titleShort>artista</titleShort>
     <!-- EN: [PAWN_objective] [PAWN_nameDef] was born on the dark edge of a tidally-locked urbworld. After an argument, [PAWN_possessive] father sold [PAWN_objective] to a local district lord as a slave artist.\n\nForced to create art or be punished, [PAWN_pronoun] withdrew and became unable to form relations with others. -->
-    <desc>[PAWN_objective] [PAWN_nameDef] va nèixer en el borde oscuro d'un món urbano bloqueado per les mareas. després d'una discusión, la seva pare [PAWN_objective] vendió a un es vanyor del distrito local com {PAWN_gender ? esclavo : esclava} artista.\n\nobligat[PAWN_objective] a crear arte o ser castigado, [PAWN_pronoun] es va retiró i no pudo establecer relaciones amb els demés.</desc>
+    <desc>[PAWN_objective] [PAWN_nameDef] va nèixer al voral fosc d'un món urbà bloquejat per les marees. Després d'una discusió, el seu pare [PAWN_objective] va vendre a un mecenes del districte local com a {PAWN_gender ? esclau : esclava} artista.\n\nObliga{PAWN_Gender ? t : da } a crear art o ser castiga{PAWN_Gender ? t : da }, es va retirar i no va poder establir relacions amb els demés.</desc>
   </ArtSlave57>
 
   <ArtsPatron54>
     <!-- EN: arts patron -->
-    <title>jefe de les arts</title>
-    <titleFemale>jefa de les arts</titleFemale>
+    <title>mecenes artístic</title>
+    <titleFemale>mecenes artística</titleFemale>
     <!-- EN: patron -->
-    <titleShort>jefe</titleShort>
-    <titleShortFemale>jefa</titleShortFemale>
+    <titleShort>mecenes</titleShort>
+    <titleShortFemale>mecenes</titleShortFemale>
     <!-- EN: [PAWN_objective] [PAWN_nameDef] managed [PAWN_possessive] family's investments in the arts.\n\n[PAWN_pronoun] chose artists to patronize and worked with them to produce the expressions that most glorify [PAWN_possessive] family, the Imperial church, and the Empire itself. -->
-    <desc>[PAWN_objective] [PAWN_nameDef] administró les seves inveuresiones famíliares en les arts.\n\n[PAWN_pronoun] eligió artistas per patrocinarels i va treballar amb ells per producir les expresiones que més glorifican a la seva família, la iglesia Imperial i el Imperio mateix.</desc>
+    <desc>[PAWN_objective] [PAWN_nameDef] va administrar les inversions familiars en les arts.\n\nVa ecollir artistes per patrocinar i va treballar amb ells per produïr les expressions que més glorifiquen a la seva família, a l'esglèsia Imperial i al mateix Imperi.</desc>
   </ArtsPatron54>
 
   <ArtStudent79>
     <!-- EN: Art student -->
-    <title>estudiant de arte</title>
+    <title>Estudiant d'art</title>
     <!-- EN: Artist -->
     <titleShort>Artista</titleShort>
     <!-- EN: After years of practice, Freya was able to enrol into an art univeuresity and take her skills further. She sought art industry work after graduating with good grades. She made some progress with private commissions, managing to make a decent living from heart. -->
-    <desc>després de anys de pràctica, [PAWN_objective] [PAWN_nameDef] va ser capàz de encamienarse en una univeuresidad de arte i llevar les seves habilitats a més allá. Buscó treballs en la industria del arte depués de graduarse amb bonas calificaions. Hizo algo de progreso amb comisiones privadas, logrando fer una vida decente amb la seva arte.</desc>
+    <desc>Després de anys de pràctica, [PAWN_objective] [PAWN_nameDef] va ser capàç d'entrar en una universitat d'arte i duur les seves habilitats al màxim. Va buscar treballs en la indústria de l'art després de graduarse amb bones notes. Va anar progressant amb encarregats privats, permetent-se una viad decent amb el que li sortía del cor.</desc>
   </ArtStudent79>
 
   <AsceticPriest84>
     <!-- EN: ascetic priest -->
-    <title>sacerdote ascético</title>
-    <titleFemale>sacerdotisa ascética</titleFemale>
+    <title>sacerdot ascètic</title>
+    <titleFemale>sacerdotissa ascètica</titleFemale>
     <!-- EN: priest -->
-    <titleShort>sacerdote</titleShort>
-    <titleShortFemale>sacerdotisa</titleShortFemale>
+    <titleShort>sacerdot</titleShort>
+    <titleShortFemale>sacerdotissa</titleShortFemale>
     <!-- EN: After taking a vow of silence, [PAWN_objective] [PAWN_nameDef] joined a monastery to spend [PAWN_possessive] days in quiet contemplation.\n\n[PAWN_pronoun] found happiness growing vegetables in the garden and making cheese in the monastery cellars. -->
-    <desc>després de tomar les seves votos de silenci, [PAWN_objective] [PAWN_nameDef] es va unir a un monasterio per pasar les seves dies en solitaria contemplación.\n\n[PAWN_pronoun] va trobar la felicidad cultivando vegetales en el jardín i fabricando queso en el sótano del monasterio.</desc>
+    <desc>Després de fer els vots de silenci, [PAWN_objective] [PAWN_nameDef] es va unir a un monestir per passar els seus dies en solitaria contemplació.\n\nVa trobar la felicitat creixent vegetals al jardí i fent formatge al soterrani.</desc>
   </AsceticPriest84>
 
   <AspergersRebel13>
